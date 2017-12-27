@@ -1,0 +1,24 @@
+/* 
+    Created on : Oct 11, 2017, 8:49:03 AM
+    Author     : jmend166
+*/
+*{
+    -fx-font-size: 100.0%;
+    -fx-alignment: center;
+    -fx-background-color:#c1e7ff
+}
+.button {
+    -fx-background-color: #cccccc
+}
+.wall {
+    -fx-background-color: #000000
+}
+.start, .end {
+    -fx-background-color:#ff9933
+}
+.path {
+    -fx-background-color: red
+}
+.hovered {
+    -fx-background-color: gainsboro
+}
